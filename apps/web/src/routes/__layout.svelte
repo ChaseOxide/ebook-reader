@@ -1,4 +1,5 @@
 <script lang="ts">
+  import '../polyfills';
   import { MetaTags } from 'svelte-meta-tags';
   import { page } from '$app/stores';
   import { basePath } from '$lib/data/env';

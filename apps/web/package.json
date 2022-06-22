@@ -37,6 +37,7 @@
     "@popperjs/core": "2.11.5",
     "@zip.js/zip.js": "2.4.20",
     "balanced-match": "2.0.0",
+    "core-js": "3.23.2",
     "fake-indexeddb": "3.1.8",
     "fast-xml-parser": "4.0.8",
     "idb": "7.0.2",
